@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print("Code for Model 3")
+
+print("working fantastic")
